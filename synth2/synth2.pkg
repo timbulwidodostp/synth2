@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'synth2': Implementation of synthetic control method (SCM) with placebo tests, robustness test and visualization Use synth2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+
+f lsynth_mata_subr.mlib
+f synth.ado
+f synth.sthlp
+f synth2.ado
+f synth2.sthlp
+f synth2.xlsx
+f synth_ll.ado
+f synthopt.plugin
